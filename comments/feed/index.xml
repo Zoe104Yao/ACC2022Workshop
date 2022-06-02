@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://zoe104yao.github.io/ACC2022Workshop/</link>
 	<description>Workshop 14</description>
-	<lastBuildDate>Mon, 02 May 2022 20:08:01 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 02 Jun 2022 23:29:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.0</generator>
 </channel>
 </rss>
